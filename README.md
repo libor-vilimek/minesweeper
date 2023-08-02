@@ -1,5 +1,11 @@
-# minesweeper
+# Minesweeper
 Minesweeper that always have a solution
+
+# Installation
+
+Just download the "exec" folder and run the .jar file.
+
+# Background
 
 Uploaded small project from about 2010 (not touched since).
 
